@@ -1,0 +1,18 @@
+c:\users\bor_001\documents\visual studio 2013\Projects\triangle\triangle\bin\Debug\triangle.exe.config
+c:\users\bor_001\documents\visual studio 2013\Projects\triangle\triangle\bin\Debug\triangle.exe
+c:\users\bor_001\documents\visual studio 2013\Projects\triangle\triangle\bin\Debug\triangle.pdb
+c:\users\bor_001\documents\visual studio 2013\Projects\triangle\triangle\obj\Debug\triangle.Properties.Resources.resources
+c:\users\bor_001\documents\visual studio 2013\Projects\triangle\triangle\obj\Debug\triangle.csproj.GenerateResource.Cache
+c:\users\bor_001\documents\visual studio 2013\Projects\triangle\triangle\obj\Debug\triangle.exe
+c:\users\bor_001\documents\visual studio 2013\Projects\triangle\triangle\obj\Debug\triangle.pdb
+C:\Users\bor_001\documents\visual studio 2013\Projects\triangle\triangle\obj\Debug\triangle.MainForm.resources
+C:\Users\bor_001\Documents\Visual Studio 2013\Projects\triangle\triangle\obj\Debug\triangle.csprojResolveAssemblyReference.cache
+C:\Users\bor_001\Documents\GitHub\triangle\src\triangle\triangle\bin\Debug\triangle.exe.config
+C:\Users\bor_001\Documents\GitHub\triangle\src\triangle\triangle\obj\Debug\triangle.exe
+C:\Users\bor_001\Documents\GitHub\triangle\src\triangle\triangle\obj\Debug\triangle.pdb
+C:\Users\bor_001\Documents\GitHub\triangle\src\triangle\triangle\bin\Debug\triangle.exe
+C:\Users\bor_001\Documents\GitHub\triangle\src\triangle\triangle\bin\Debug\triangle.pdb
+C:\Users\bor_001\Documents\GitHub\triangle\src\triangle\triangle\obj\Debug\triangle.csprojResolveAssemblyReference.cache
+C:\Users\bor_001\Documents\GitHub\triangle\src\triangle\triangle\obj\Debug\triangle.MainForm.resources
+C:\Users\bor_001\Documents\GitHub\triangle\src\triangle\triangle\obj\Debug\triangle.Properties.Resources.resources
+C:\Users\bor_001\Documents\GitHub\triangle\src\triangle\triangle\obj\Debug\triangle.csproj.GenerateResource.Cache
